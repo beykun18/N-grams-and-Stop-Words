@@ -1,5 +1,6 @@
 # N-grams-and-Stop-Words
 Exploring Financial News using N-grams and Stop Words.
+
 This is a school Natural Language Processing assginment.
 We used N-grams, stop words and Part-of-Speech tags to extract important information from financial news text.
 
